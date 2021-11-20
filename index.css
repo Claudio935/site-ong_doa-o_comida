@@ -1,0 +1,31 @@
+.carousel-inner{
+    max-height: 70vh;
+}
+.Titulo{
+    font-size: 60px;
+}
+a{
+    color: white;
+
+}
+.quemsomos{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+.yellow-block{
+    width: 45%;
+}
+.doe{
+    text-align: justify;
+    text-align-last: center;
+    margin-top: 15px;
+}
+.dados{margin-right: 60px;}
+.redes{
+ margin-right: 70px;
+}
+.patrocinio{
+    margin: 30px 0 45px 0;
+}
+.msg{
+    margin: 15px 0 15px 0;
+}
