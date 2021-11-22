@@ -8,18 +8,16 @@ a{
     color: white;
 
 }
-.quemsomos{
+.somos{
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
 .yellow-block{
     width: 45%;
 }
-.doe{
-    text-align: justify;
-    text-align-last: center;
-    margin-top: 15px;
+.dados
+{
+    margin-right: 60px;
 }
-.dados{margin-right: 60px;}
 .redes{
  margin-right: 70px;
 }
